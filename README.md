@@ -27,7 +27,7 @@ Ensure local installation of following softwares/tools:
 
 Open your command/shell terminal
 
-Clone locally, an appropriate version of sample-test from [git](https://github.com/sammeraj/xebia).
+Clone locally, an appropriate version of sample-test from [git](https://github.com/sammeraj/xebia_test).
 
 Execute standard maven command to build and install library:
 
