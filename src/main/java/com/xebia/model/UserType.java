@@ -7,6 +7,7 @@ public enum UserType {
 	AFFILIATE("affiliate");
 	private String value;
 
+
 	UserType(String value){
 		this.value=value;
 	}
