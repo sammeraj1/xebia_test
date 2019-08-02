@@ -1,6 +1,7 @@
 package com.xebia.model;
 
 import java.io.Serializable;
+import java.math.BigDecimal;
 import java.util.Date;
 
 /*
@@ -21,7 +22,7 @@ public class BillDetails implements Serializable{
 	/**
 	 * Total amount before discount
 	 */
-	private Double grossAmount;
+	private BigDecimal grossAmount;
 
 	/*
 	 * Date of generation of bill
@@ -60,14 +61,14 @@ public class BillDetails implements Serializable{
 	/*
 	 * Getter for grossAmount
 	 */
-	public Double getGrossAmount() {
+	public BigDecimal getGrossAmount() {
 		return grossAmount;
 	}
 	
 	/*
 	 * Setter for grossAmount
 	 */
-	public void setGrossAmount(Double grossAmount) {
+	public void setGrossAmount(BigDecimal grossAmount) {
 		this.grossAmount = grossAmount;
 	}
 	
