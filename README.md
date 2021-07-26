@@ -12,6 +12,7 @@ This application calculate the net amount payable by the customer after deductio
 * [Build](#markdown-header-build)
 * [Run](#markdown-header-run)
 * [Test](#markdown-header-test)
+* [Change Logs](#markdown-header-change-logs)
 * [Author](#markdown-header-author)
 
 ## Prerequisites ##
@@ -61,6 +62,12 @@ java -jar test/target/test-0.0.1-SNAPSHOT.jar
 This api can be tested using below url.
 
 `http://localhost:8080/getBill/1245`
+
+---
+
+## Change Logs ##
+
+0.0.1- Added the initial code (BAYCLOY-63)
 
 ---
 
