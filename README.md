@@ -22,6 +22,7 @@ Ensure local installation of following softwares/tools:
 * Git (2.9.0 or higher) - only for cloning project from repository
 * Apache Maven (3.3.9 or higher)
 
+---
 
 ## Build
 
@@ -53,6 +54,7 @@ Local
 java -jar test/target/test-0.0.1-SNAPSHOT.jar
 
 ```
+---
 
 ## Test
 
