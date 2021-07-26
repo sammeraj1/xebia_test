@@ -1,18 +1,3 @@
-As a developer we needs to follow below project structure and code reviewer needs to ensure that same is being followed.
-
-
-
-No IDE specific folder/file should be checked-in into repo for example .idea.
-.mvn folder shouldn't be checked-in
-It should have project structure similar to below. Package name should be in lower case.
-            
-
-
-
-    4. Sample readme.md 
-
-       
-
 # Point Ledger API App #
 
 ## Version ##
