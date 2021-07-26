@@ -10,8 +10,8 @@ This application calculate the net amount payable by the customer after deductio
 
 * [Prerequisites](#markdown-header-prerequisites)
 * [Build](#markdown-header-build)
-* [Test](#markdown-header-test)
 * [Run](#markdown-header-run)
+* [Test](#markdown-header-test)
 * [Author](#markdown-header-author)
 
 ## Prerequisites ##
@@ -43,15 +43,6 @@ Verify that it generates below artifacts:
 
 ---
 
-## Test
-
-This api can be tested using below url.
-
-`http://localhost:8080/getBill/1245`
-
-
----
-
 ## Run
 
 Local
@@ -62,6 +53,14 @@ Local
 java -jar test/target/test-0.0.1-SNAPSHOT.jar
 
 ```
+
+## Test
+
+This api can be tested using below url.
+
+`http://localhost:8080/getBill/1245`
+
+---
 
 ## Author ##
 
